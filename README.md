@@ -1,4 +1,4 @@
-# Smart-Traffic-Control-System-using-IOT
+<h1> Smart-Traffic-Control-System-using-IOT</h1>
 A Traffic system that can control the traffic on 8 roads
 
 <h2> Description</h2>
