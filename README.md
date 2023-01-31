@@ -1,4 +1,5 @@
 # Smart-Traffic-Control-System-using-IOT
+A Traffic system that can control the traffic on 8 roads
 
 <h2> Description</h2>
 The objective of the project is to provide safety and reduce costs.I developed a traffic system that can
